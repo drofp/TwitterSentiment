@@ -1,4 +1,4 @@
-All of the executable code is abailable with contributions from 
+All of the executable code is available with contributions from 
 Vinh Truong, Sebastian Dumbrava, and Bryce Blanton.
 
 The dataset is too big to be submitted through canvas, so if retraining is 
